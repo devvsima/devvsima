@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-**languages and tools:**  
+** and:**  
 
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/language/python.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/language/hrml.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/language/css.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/language/c%23.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/database/sql.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/database/mongodb.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/tools/Figma.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/tools/django.png"></code>
-<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/tools/Photoshop.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/python.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/html.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/css-3.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/sql.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/mongodb.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/Figma.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/django.png"></code>
+<code><img height="35" src="https://github.com/devSimaa/devSimaa/blob/main/ico/Photoshop.png"></code>
 
 
 
