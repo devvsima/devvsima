@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** and:**  
+**languages and tools:**  
 
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/python.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/html-5.png"></code>
