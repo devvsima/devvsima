@@ -20,6 +20,7 @@
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/sqlite.svg"></code>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&size_weight=0.5&count_weight=0.5)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=radical)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devSimaa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
