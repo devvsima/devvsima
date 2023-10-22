@@ -19,7 +19,7 @@
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/mongodb.svg"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/sqlite.svg"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=radical)
 
 
 
