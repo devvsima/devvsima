@@ -28,5 +28,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&size_weight=0.8&count_weight=0.5)
 -->
 <!--END_SECTION:waka-->
-- 📫 Telegram: [@briler](https://t.me/devSima)
+- 📫 Telegram: [@devSima](https://t.me/devSima)
 🥺👉👈
