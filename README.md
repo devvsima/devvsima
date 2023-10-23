@@ -21,7 +21,7 @@
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/sqlite.svg"></code>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=dracula)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=dracula)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devSimaa)](https://github.com/anuraghazra/github-readme-stats)
