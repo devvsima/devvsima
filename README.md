@@ -3,14 +3,14 @@
 
 **languages and tools:**  
 
-<!-- <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/python.png"></code>
+<code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/python.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/html-5.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/css-3.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/sql.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/Figma.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/django.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/Photoshop.png"></code>
-<code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/aiogram.png"></code> -->
+<code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/aiogram.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/python.svg"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/html5.svg"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/css3.svg"></code>
@@ -21,12 +21,12 @@
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/sqlite.svg"></code>
 
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=dracula)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devSimaa)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&size_weight=0.8&count_weight=0.5)
--->
-<!--END_SECTION:waka-->
+
+<!--END_SECTION:waka -->
 Telegram: [@devSima](https://t.me/devSima)
 🥺👉👈
