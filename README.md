@@ -23,7 +23,7 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=dracula)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devSimaa&theme=solarized_dark)
 <!--
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devSimaa)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&size_weight=0.8&count_weight=0.5)
