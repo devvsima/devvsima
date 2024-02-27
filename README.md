@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 
-**[languages and tools:](https://sima34.notion.site/Todo-3a046983af084f87a1aca490feec6e3a)**  
+**[languages and tools:](https://devvsima.notion.site/devvsima-d32ed4260e3e4aebaa3239f6a9cea78e?pvs=4)**  
 
 <!-- <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/python.png"></code>
 <code><img height="45" src="https://github.com/devSimaa/devSimaa/blob/main/ico/html-5.png"></code>
