@@ -36,6 +36,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Light.svg" alt="linux" width="55" height="55"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Light.svg" alt="bash" width="55" height="55"/> </a>  
 </p>
+<br/>
+<br/>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=dracula)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsima&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
