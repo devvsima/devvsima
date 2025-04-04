@@ -1,8 +1,10 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there+👋;I'm+devvsima" alt="Typing SVG" />
+</h1>
 
 
 
-<h3 align="left"><a hre"https://devvsima.notion.site/devvsima-d32ed4260e3e4aebaa3239f6a9cea78e?pvs=4">Languages and tools:</a></h3>
+<h3 align="left"><a>Languages and tools:</a></h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg" alt="python" width="36" height="36"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="python" width="36" height="36"/> </a>
@@ -37,16 +39,8 @@
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Light.svg" alt="ubuntu" width="36" height="36"/> </a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arch-Light.svg" alt="arch" width="36" height="36"/> </a>
 <br/>
-<br/>
-</p>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSimaa&show_icons=true&theme=dracula)-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvsima&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvsima&theme=dracula) -->
-<!--
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devSimaa)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSimaa&size_weight=0.8&count_weight=0.5)
--->
-<!--END_SECTION:waka-->
-Telegram: [@devvsima](https://t.me/devvsima)
-🥺👉👈
+---
+### 📊 [View statistics](https://github.com/devvsima/devvsima/blob/main/stats.md)
+
+### 📬 Telegram: [@devvsima](https://t.me/devvsima) 🥺👉👈
