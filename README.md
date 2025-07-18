@@ -2,9 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there+👋;I'm+devvsima" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+Hi! I mainly develop Telegram bots and sometimes websites.<br>
+Most of my work is for personal use, but I occasionally take on freelance projects.
+</p>
 
 
-<h3 align="left"><a>Languages and tools:</a></h3>
+<h3 align="left">Languages and tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg" alt="python" width="36" height="36"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="python" width="36" height="36"/> </a>
@@ -41,6 +45,10 @@
 <br/>
 
 ---
+
+
+### [📁 My templates for projects](https://github.com/devvsima/devvsima/blob/main/templates.md)
+
 ### 📊 [View statistics](https://github.com/devvsima/devvsima/blob/main/stats.md)
 
 ### 📬 Telegram: [@devvsima](https://t.me/devvsima) 🥺👉👈

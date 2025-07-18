@@ -10,9 +10,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsima&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvsima&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvsima&theme=github_dark" alt="Summary Card" />
