@@ -24,11 +24,18 @@ I create them for myself and on request.
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
+</div>
 
+---
 
-**[📋 Templates](https://github.com/devvsima/devvsima/blob/main/templates.md)** • **[📊 Stats](https://github.com/devvsima/devvsima/blob/main/stats.md)** •
-**[🔗 More Projects](https://github.com/devvsima-unreleased)**
+<div align="center">
 
-### 📫 Telegram: [@devvsima](https://t.me/devvsima) 🥺👉👈
+## 📂 Resources
+
+**[📋 Templates](https://github.com/devvsima/devvsima/blob/main/templates.md)** • **[� Stats](https://github.com/devvsima/devvsima/blob/main/stats.md)** • **[🔗 More Projects](https://github.com/devvsima-unreleased)**
+
+---
+
+**Contact:** [📬 @devvsima](https://t.me/devvsima)
 
 </div>
