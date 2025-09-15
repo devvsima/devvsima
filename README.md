@@ -26,10 +26,7 @@ I create them for myself and on request.
 
 </div>
 
-### [📁 My templates for projects](https://github.com/devvsima/devvsima/blob/main/templates.md)
-
-### [📊 View statistics](https://github.com/devvsima/devvsima/blob/main/stats.md)
-
-### [⏬ Additional repositories](https://github.com/devvsima-unreleased)
+**[📋 Templates](https://github.com/devvsima/devvsima/blob/main/templates.md)** • **[📊 Stats](https://github.com/devvsima/devvsima/blob/main/stats.md)** •
+**[🔗 More Projects](https://github.com/devvsima-unreleased)**
 
 ### 📫 Telegram: [@devvsima](https://t.me/devvsima) 🥺👉👈
