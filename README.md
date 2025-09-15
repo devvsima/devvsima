@@ -28,6 +28,8 @@ I create them for myself and on request.
 
 ### [📁 My templates for projects](https://github.com/devvsima/devvsima/blob/main/templates.md)
 
-### 📊 [View statistics](https://github.com/devvsima/devvsima/blob/main/stats.md)
+### [📊 View statistics](https://github.com/devvsima/devvsima/blob/main/stats.md)
 
-### 📬 Telegram: [@devvsima](https://t.me/devvsima) 🥺👉👈
+### [⏬ Additional repositories](https://github.com/devvsima-unreleased)
+
+### 📫 Telegram: [@devvsima](https://t.me/devvsima) 🥺👉👈
