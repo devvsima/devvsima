@@ -26,16 +26,11 @@ I create them for myself and on request.
 
 </div>
 
----
-
 <div align="center">
 
-## 📂 Resources
+## 📬 Telegram : [@devvsima](https://t.me/devvsima)
 
-**[📋 Templates](https://github.com/devvsima/devvsima/blob/main/templates.md)** • **[� Stats](https://github.com/devvsima/devvsima/blob/main/stats.md)** • **[🔗 More Projects](https://github.com/devvsima-unreleased)**
-
----
-
-**Contact:** [📬 @devvsima](https://t.me/devvsima)
+**[📋 Templates](https://github.com/devvsima/devvsima/blob/main/templates.md)** • **[📊 Stats](https://github.com/devvsima/devvsima/blob/main/stats.md)** •
+**[🔗 More Projects](https://github.com/devvsima-unreleased)**
 
 </div>
