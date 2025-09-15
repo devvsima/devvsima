@@ -7,7 +7,6 @@ I mainly create bots for Telegram.<br>
 I create them for myself and on request.
 </h3>
 
----
 
 <div align="center">
 
@@ -27,9 +26,6 @@ I create them for myself and on request.
 </br>
 
 </div>
-
----
-
 
 ### [📁 My templates for projects](https://github.com/devvsima/devvsima/blob/main/templates.md)
 
