@@ -15,15 +15,14 @@ I create them for myself and on request.
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB&color=black)
 ![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=telegram&logoColor=2AABEE)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20)
-</br>
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=sky)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=red)
-</br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-</br>
 
 </div>
 
